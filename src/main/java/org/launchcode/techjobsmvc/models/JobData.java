@@ -44,7 +44,7 @@ public class JobData {
 
     /**
      * Returns the results of searching the Jobs data by field and search term.
-     *
+
      * For example, searching for employer "Enterprise" will include results
      * with "Enterprise Holdings, Inc".
      *
